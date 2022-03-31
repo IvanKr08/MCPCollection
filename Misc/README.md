@@ -5,8 +5,9 @@ Fernflower 0.8.6 decompiler for MCP below 7.0a
 
 ## damt-0.1.jar
 
-[Source](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/mods-discussion/1291855-a-custom-tweaker-for-using-older-modloaders-in-the)
-__Work from beta 1.7.3 up to release 1.6.2__
+[Original source](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/mods-discussion/1291855-a-custom-tweaker-for-using-older-modloaders-in-the)
+
+***Work from beta 1.7.3 up to release 1.6.2***
 
 Fixes "URL is not hierarchical" exception and allows Modloader to work in new launchers
 
